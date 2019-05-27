@@ -1,8 +1,12 @@
 # CG2019
 This is the homework for the CG course in USTC which is completed by Haowei Cheng, Jiahui Cheng, Min Cheng .
+
 System : Windows 10 x86
+
 Render Engine : Unity.
+
 Demo :
+
 ![Demo](https://github.com/lascride/CG2019/edit/master/Demo.jpg)
 
 ### Demo 
