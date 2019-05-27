@@ -7,7 +7,7 @@ Render Engine : Unity.
 
 Demo :
 
-![Demo](https://github.com/lascride/CG2019/edit/master/Demo.jpg)
+![Demo](https://github.com/lascride/CG2019/blob/master/Demo.jpg)
 
 ### Demo 
 You can download CG2019.zip and unzip the file to have a trial on the game.
